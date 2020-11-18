@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "Name": "Khalid Abdullah Almutairi", "ID": 1845326 },
+    { "Course": "CPIT251", "title": "Software engineering" },
+    { "Instructor": "Prof. Radwan Mohamad", "Semster Year": 2020 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
